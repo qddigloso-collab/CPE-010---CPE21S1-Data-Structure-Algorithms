@@ -1,7 +1,9 @@
 <img width="1218" height="682" alt="image" src="https://github.com/user-attachments/assets/06774820-59e2-45db-b26c-04601e17d6ef" />
 <h1>CPE 010 CPE21S1 Data Structure Algorithms</h1>
-**Instructor**
-
+<b>Instructor: Engr. Jimlord Quejado</b>
+<p>What is Data Structure and Algorithms? </p>
+<p>In my learning and understanding, Data structure and algorithms are learning how to create an organized, efficient and appropriate programs for the problems that are needed to be solved. </p>
+<p>Using different kinds of algorithms like binary search tree, bubble sort, merge sort and etc, for different scenarios or problems there is a corresponding algorithms that are suitable for it.</p>
 <h3>Portfolio of Activities</h3>
 
 PRELIM</p>
