@@ -1,6 +1,8 @@
 <img width="1218" height="682" alt="image" src="https://github.com/user-attachments/assets/06774820-59e2-45db-b26c-04601e17d6ef" />
-CPE-010---CPE21S1-Data-Structure-Algorithms</p>
-Portfolio of Activities</p>
+<h1>CPE 010 CPE21S1 Data Structure Algorithms</h1>
+**Instructor**
+
+<h3>Portfolio of Activities</h3>
 
 PRELIM</p>
 <p>1. Hands-on Activity 1.1 Basic C++ Programming</p>
